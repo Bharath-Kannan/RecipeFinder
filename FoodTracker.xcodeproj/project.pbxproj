@@ -146,6 +146,7 @@
 				TargetAttributes = {
 					D44544591F3326F700049A1E = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = KD92BGQQ9B;
 						ProvisioningStyle = Automatic;
 					};
 					D445446D1F3326F700049A1E = {
@@ -341,6 +342,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = KD92BGQQ9B;
 				INFOPLIST_FILE = FoodTracker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.bK.FoodTracker;
@@ -353,6 +355,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = KD92BGQQ9B;
 				INFOPLIST_FILE = FoodTracker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.bK.FoodTracker;
