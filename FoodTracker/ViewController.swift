@@ -40,7 +40,7 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
     }
 
     func textFieldDidEndEditing(_ textField:UITextField) {
-        var queryUrl="https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/9a6ce124-0f83-40f7-859e-3361b7c55e85?subscription-key=08526f28831a4bc3af718a870ae650f3&verbose=true&timezoneOffset=0&q="
+        var queryUrl=" "
         
         let originalString:String = textField.text!
         let escapedString = originalString.addingPercentEncoding(withAllowedCharacters: .urlHostAllowed)
